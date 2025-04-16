@@ -1,9 +1,9 @@
 # Smarty_Doc_APP
 
-##Project Overview
+## Project Overview
 SGDI (Système de Gestion Documentaire Intelligent) transforms traditional document management into a complete cognitive social ecosystem. The platform bridges the gap between personal knowledge management tools (like Notion, Obsidian, Evernote) and collaborative environments by providing an intelligent approach to document organization, analysis, and collaboration.
 
-##Current Implementation (Phase 1)
+## Current Implementation (Phase 1)
 The foundation of SGDI delivers a modern document management platform with:
 
 Intuitive user interface with light/dark mode support
@@ -15,7 +15,7 @@ User management with role-based access controls
 Collaborative workspaces with integrated text chat
 Bidirectional document sharing between personal space and workspaces
 
-##Technical Architecture
+## Technical Architecture
 
 Frontend: React application with TypeScript, Redux, and modern React patterns
 Backend: RESTful API using Spring Boot microservices architecture
